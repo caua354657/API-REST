@@ -1,8 +1,8 @@
 <?php
 $servername = "mysql.escola25dejulho.com.br";
-$username = "escola25dejulh90";
+$username = "escola25dejulh93";
 $password = "aula2024";
-$schema = "escola25dejulh90";
+$schema = "escola25dejulh93";
 
 // Create connection
 $conexao = new mysqli($servername, $username, $password, $schema);
